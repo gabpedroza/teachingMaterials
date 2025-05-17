@@ -1,0 +1,1 @@
+This repo has a compendium of nearly all the teaching material I have written. Some are not featured because they were produced specifically to some schools. Furthermore, some are in Portuguese, and others in English, due to the target audience.
